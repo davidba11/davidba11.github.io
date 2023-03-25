@@ -7,8 +7,8 @@
 
 .cube {
   position: absolute;
-  top: 200vh;
-  left: 80vw;
+  top: 190vh;
+  left: 85vw;
   width: 10px;
   height: 10px;
   border: solid 1px #003298;
@@ -26,13 +26,13 @@
   -webkit-animation-delay: 2s;
           animation-delay: 2s;
   left: 15vw;
-  top: 150vh;
+  top: 135vh;
 }
 .cube:nth-child(3) {
   -webkit-animation-delay: 4s;
           animation-delay: 4s;
   left: 86vw;
-  top: 100vh;
+  top: 90vh;
 }
 .cube:nth-child(4) {
   -webkit-animation-delay: 6s;
@@ -44,13 +44,13 @@
   -webkit-animation-delay: 8s;
           animation-delay: 8s;
   left: 10vw;
-  top: 85vh;
+  top: 60vh;
 }
 .cube:nth-child(6) {
   -webkit-animation-delay: 10s;
           animation-delay: 10s;
   left: 10vw;
-  top: 240vh;
+  top: 215vh;
 }
 
 @-webkit-keyframes cube {
@@ -81,7 +81,7 @@
 
 .principal-container{
 	width: 800px;
-	height:1800px;
+	height:1475px;
 	margin:0 auto;
 	margin-top:15px;
 	margin-bottom:50px
